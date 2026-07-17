@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-24T13:27:21.967Z",
-  "total_contributors": 26,
+  "last_updated": "2026-07-17T12:40:02.055Z",
+  "total_contributors": 27,
   "contributors": [
     {
       "username": "Manu A Sankaran",
@@ -87,6 +87,14 @@
       "name": "Parvesh Garg",
       "email": "mp25007@iisermohali.ac.in",
       "avatar_url": "https://ui-avatars.com/api/?name=Parvesh%20Garg&background=random&size=200",
+      "profile_url": null,
+      "commits": 4
+    },
+    {
+      "username": "Soumadip Bhowmick",
+      "name": "Soumadip Bhowmick",
+      "email": "ms22074@iisermohali.ac.in",
+      "avatar_url": "https://ui-avatars.com/api/?name=Soumadip%20Bhowmick&background=random&size=200",
       "profile_url": null,
       "commits": 4
     },
